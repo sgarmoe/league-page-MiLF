@@ -24,7 +24,7 @@ export const managers = [
     {
       "roster": '732099569369899008',  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brian Mcabee",
-      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+      "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Rockville", // (optional)
       "bio": "N/A.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
